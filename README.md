@@ -1,2 +1,1 @@
-# FirstRespo
-first repo for mamasbo course 
+Hello GIT!
